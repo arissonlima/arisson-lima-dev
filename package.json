@@ -2,7 +2,7 @@
   "name": "arisson-lima-dev",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.html",
   "scripts": {
     "dev": "npx tailwindcss -i ./src/css/tailwind.css -o ./src/css/main.css --watch"
   },
